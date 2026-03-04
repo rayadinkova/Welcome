@@ -7,7 +7,6 @@ I design and develop user-focused digital solutions by combining UX/UI principle
 <h3 align="left">Current stack</h3>
 <ul>
   <li>React</li>
-  <li>React Native, Expo Go</li>
   <li>TypeScript</li>
   <li>Tailwind CSS</li>
 </ul>
@@ -24,9 +23,6 @@ I design and develop user-focused digital solutions by combining UX/UI principle
   <li>Notion</li>
   <li>Miro</li>
 </ul>
-
-💻 <a href="http://rayad.dk/">Take a look at my website!</a> <br></br>
-
 
 
 <h3 align="left">Let's connect!</h3>
